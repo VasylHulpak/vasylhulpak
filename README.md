@@ -17,5 +17,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![image](https://github.com/VasylHulpak/vasylhulpak/assets/76429065/818ba150-3ebb-406c-ac8f-9b6fb3555cdf)
+
+
+
+![image](https://github.com/VasylHulpak/vasylhulpak/assets/76429065/69c47694-4e95-44d2-ae63-1efd7e56b26c)
+
+![image](https://github.com/VasylHulpak/vasylhulpak/assets/76429065/f7d6fee8-89d2-4c61-a604-81840db49280)
+
