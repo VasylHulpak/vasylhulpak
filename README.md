@@ -2,13 +2,10 @@
 
 I'm Full-Stack Developer working in Lviv, Ukraine.
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 
+  
 - 🌱 I’m currently learning ...
-- 
+  
 - 💬 Ask me about ...
 
 - 📫 How to reach me: hulpakvasyl@gmail.com
