@@ -6,10 +6,8 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
   <summary>
     <b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🌱</g-emoji> I’m currently learning </b> 
   </summary>
-  <p align="left" dir="auto">
     <div>&nbsp;&nbsp;&nbsp;○ Algorithms data structures</div>
     <div>&nbsp;&nbsp;&nbsp;○ GrapghQL</div>
-</details>
 </details>
 
 <details>
