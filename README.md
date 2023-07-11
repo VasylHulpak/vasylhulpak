@@ -1,11 +1,7 @@
 ### Hi 👋, I'm Vasyl Hulpak
 
 I'm Full-Stack Developer working in Lviv, Ukraine.
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+
 
 Here are some ideas to get you started:
 
@@ -19,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<p align="center" dir="auto">
+<p align="center" style="display: flex;justify-content: center;">
 ![image](https://github.com/VasylHulpak/vasylhulpak/assets/76429065/69c47694-4e95-44d2-ae63-1efd7e56b26c)
 
 ![image](https://github.com/VasylHulpak/vasylhulpak/assets/76429065/f7d6fee8-89d2-4c61-a604-81840db49280)
