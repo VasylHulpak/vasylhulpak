@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<div  style="display: flex;justify-content: center; align-items:center;">
-  
-![image](https://github.com/VasylHulpak/vasylhulpak/assets/76429065/f7d6fee8-89d2-4c61-a604-81840db49280)
-  
-![image](https://github.com/VasylHulpak/vasylhulpak/assets/76429065/69c47694-4e95-44d2-ae63-1efd7e56b26c)
+<div class="flex w-full flex-col items-center">
+  <img class="output" src="https://github-readme-stats.vercel.app/api?username=vasylhulpak&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
+  <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=vasylhulpak&amp;theme=vue-dark&amp;hide_border=true" alt="github streak">
+  <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasylhulpak&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
 </div>
