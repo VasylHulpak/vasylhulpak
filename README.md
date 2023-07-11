@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<div style="display: flex;">
+<div styles="display: flex;">
   <img class="output" src="https://github-readme-stats.vercel.app/api?username=vasylhulpak&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
   <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=vasylhulpak&amp;theme=vue-dark&amp;hide_border=true" alt="github streak">
 </div>
