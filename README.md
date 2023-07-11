@@ -1,6 +1,11 @@
 ### Hi 👋, I'm Vasyl Hulpak
 
 I'm Full-Stack Developer working in Lviv, Ukraine.
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
 Here are some ideas to get you started:
 
@@ -13,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://github.com/VasylHulpak/vasylhulpak/assets/76429065/818ba150-3ebb-406c-ac8f-9b6fb3555cdf)
