@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<p align="center" style="display: flex;justify-content: center;">
-![image](https://github.com/VasylHulpak/vasylhulpak/assets/76429065/69c47694-4e95-44d2-ae63-1efd7e56b26c)
-
+<div  style="display: flex;justify-content: center; align-items:center;">
+  
 ![image](https://github.com/VasylHulpak/vasylhulpak/assets/76429065/f7d6fee8-89d2-4c61-a604-81840db49280)
-</p>
-
+  
+![image](https://github.com/VasylHulpak/vasylhulpak/assets/76429065/69c47694-4e95-44d2-ae63-1efd7e56b26c)
+</div>
