@@ -4,7 +4,12 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
 <br
 <details>
   <summary>
-    <b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🌱</g-emoji> I’m currently learning Algorithms data structures</b>    </summary>
+    <b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🌱</g-emoji> I’m currently learning </b> 
+  </summary>
+  <dl>
+    <dd style="margin:0">○ Algorithms data structures</dd>
+    <dd style="margin:0">○ GrapghQL</dd>
+  </dl>
 </details>
 
 <details>
