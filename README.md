@@ -2,10 +2,22 @@
 
 I'm Full-Stack Developer working in Lviv, Ukraine.
 
+
 <li>🔭 I’m currently working on ...</li>
 <li>🌱 I’m currently learning Algorithms data structures</li>
-<li>📫 How to reach me: <a  style="list-style-type: circle;" href="mailto:hulpakvasyl@gmail.com">hulpakvasyl@gmail.com</a></li>
+<li>💬 Ask me about Vue, TS, C# </li>
+<li>📫 How to reach me: <a href="mailto:hulpakvasyl@gmail.com">hulpakvasyl@gmail.com</a></li>
 <li>😄 Pronouns: he</li>
+
+<li>🌎 Languages: <div align="center">
+
+![en](https://img.shields.io/badge/Lang-English-blue.svg)
+![uk](https://img.shields.io/badge/Lang-Ukrainian-green.svg)
+![rom](https://img.shields.io/badge/Lang-Romanian-yellow.svg)
+![pl](https://img.shields.io/badge/Lang-Polish-orange.svg)
+
+</div>
+</li>
 <br>
 
 <p align="center" dir="auto">
