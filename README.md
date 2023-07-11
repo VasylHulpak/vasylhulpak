@@ -1,15 +1,30 @@
 ### Hi 👋, I'm Vasyl Hulpak
 
 I'm Full-Stack Developer working in Lviv, Ukraine.
+<br
+<details>
+  <summary>
+    <b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🌱</g-emoji> I’m currently learning Algorithms data structures</b>    </summary>
+</details>
 
+<details>
+  <summary>
+    <b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">💬</g-emoji> Ask me about Vue, TS, C# </b>    </summary>
+</details>
 
-<li>🔭 I’m currently working on ...</li>
-<li>🌱 I’m currently learning Algorithms data structures</li>
-<li>💬 Ask me about Vue, TS, C# </li>
-<li>📫 How to reach me: <a href="mailto:hulpakvasyl@gmail.com">hulpakvasyl@gmail.com</a></li>
-<li>😄 Pronouns: he</li>
+<details>
+  <summary>
+    <b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">📫</g-emoji> How to reach me: <a href="mailto:hulpakvasyl@gmail.com">hulpakvasyl@gmail.com</a></b>    </summary>
+</details>
 
-<li>🌎 Spoken languages: <div align="center">
+<details>
+  <summary>
+    <b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">😄</g-emoji>&nbsp;Pronouns:&nbsp;he</b>    </summary>
+</details>
+  
+<details open="">
+  <summary><b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🌎</g->&nbsp;Spoken&nbsp;languages</b>    </summary>
+<div align="center">
 
 ![en](https://img.shields.io/badge/Lang-English-blue.svg)
 ![uk](https://img.shields.io/badge/Lang-Ukrainian-green.svg)
@@ -17,6 +32,7 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
 ![pl](https://img.shields.io/badge/Lang-Polish-orange.svg)
 
 </div>
+  </details>
 </li>
 <details open="">
   <summary><b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji>&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
