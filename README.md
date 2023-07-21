@@ -23,7 +23,6 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
   <summary>
     <b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">😄</g-emoji>&nbsp;Pronouns:&nbsp;he</b>    </summary>
 </details>
-  
 <details open="">
   <summary><b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🌎</g->&nbsp;Spoken&nbsp;languages</b>    </summary>
 <div align="center">
