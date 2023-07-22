@@ -10,6 +10,7 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
     <div>&nbsp;&nbsp;&nbsp;○ GrapghQL</div>
     <div>&nbsp;&nbsp;&nbsp;○ Microservices</div>
 </details>
+
 <details>
   <summary>
     <b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">💬</g-emoji> Ask me about Vue, TS, C# </b>    </summary>
