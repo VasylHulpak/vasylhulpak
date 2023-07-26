@@ -46,6 +46,7 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
   <a href="https://tailwindcss.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://www.nuget.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg" alt="nuget" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://www.npmjs.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" style="max-width: 100%;"> </a>
+     <a href="https://eslint.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40" style="max-width: 100%;"> </a>
   </p>
 </details>
 
