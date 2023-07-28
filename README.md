@@ -59,7 +59,7 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasylhulpak&show_icons=true&theme=algolia" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=vasylhulpak&show_icons=true&theme=algolia" height="165">
 <img src="https://streak-stats.demolab.com/?user=vasylhulpak&theme=algolia" height="160">
 </p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d397a54b034d69cb5520873c975eefe2ca67a7ff1e0ef19d0eff983691497d31/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d5072616b61736834383434267468656d653d72656163742d6461726b26617265613d7472756526686964655f626f726465723d747275652367682d6c696768742d6d6f64652d6f6e6c79"><img src="https://github-readme-activity-graph.vercel.app/graph?username=vasylhulpak&theme=react-dark" style="max-width: 100%;"></a></p>
