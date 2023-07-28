@@ -9,6 +9,7 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
     <div>&nbsp;&nbsp;&nbsp;○ Dapper</div>
     <div>&nbsp;&nbsp;&nbsp;○ GrapghQL</div>
     <div>&nbsp;&nbsp;&nbsp;○ Microservices</div>
+    <div>&nbsp;&nbsp;&nbsp;○ RabbitMq</div>
 </details>
 
 <details>
