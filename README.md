@@ -19,7 +19,7 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
 
 <details>
   <summary>
-    <b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">📫</g-emoji> How to reach me: <a href="mailto:vhulpak@gmail.com">hulpakvasyl@gmail.com</a></b>    </summary>
+    <b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">📫</g-emoji> How to reach me: <a href="mailto:vhulpak@gmail.com">vhulpak@gmail.com</a></b>    </summary>
 </details>
 
 <details>
