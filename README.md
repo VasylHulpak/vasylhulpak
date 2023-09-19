@@ -30,9 +30,9 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
   <summary><b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🌎</g->&nbsp;Spoken&nbsp;languages</b>    </summary>
 <div align="center">
 
+![uk](https://img.shields.io/badge/Lang-Ukrainian-green.svg)
 ![en](https://img.shields.io/badge/Lang-English-blue.svg)
 ![rom](https://img.shields.io/badge/Lang-Romanian-yellow.svg)
-![uk](https://img.shields.io/badge/Lang-Ukrainian-green.svg)
 ![pl](https://img.shields.io/badge/Lang-Polish-orange.svg)
 
 </div>
