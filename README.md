@@ -11,7 +11,6 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
   <div>&nbsp;&nbsp;&nbsp;○ Opentelemetry</div>
     <div>&nbsp;&nbsp;&nbsp;○ RabbitMq</div>
     <div>&nbsp;&nbsp;&nbsp;○ SSR vs SSG</div>
-    <div>&nbsp;&nbsp;&nbsp;○ ESLint</div>
 </details>
 
 <details>
