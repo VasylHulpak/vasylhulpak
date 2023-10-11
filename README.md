@@ -32,8 +32,8 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
 
 ![uk](https://img.shields.io/badge/Lang-Ukrainian-green.svg)
 ![rom](https://img.shields.io/badge/Lang-Romanian-yellow.svg)
-![en](https://img.shields.io/badge/Lang-English-blue.svg)
 ![pl](https://img.shields.io/badge/Lang-Polish-orange.svg)
+![en](https://img.shields.io/badge/Lang-English-blue.svg)
 
 </div>
   </details>
