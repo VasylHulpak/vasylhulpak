@@ -57,7 +57,6 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
   <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji>
   Github stats</h3>
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vasylhulpak&show_icons=true&theme=algolia" height="165">
 <img src="https://streak-stats.demolab.com/?user=vasylhulpak&theme=algolia" height="165">
