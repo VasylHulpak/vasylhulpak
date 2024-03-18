@@ -53,6 +53,7 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
      <a href="https://vitest.dev/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="vitest" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://vitejs.dev/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://www.elastic.co/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40" style="max-width: 100%;"> </a>
+     <a href="https://www.atlassian.com/software/confluence/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40" style="max-width: 100%;"> </a>
   </p>
 </details>
 
