@@ -45,7 +45,9 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
   <a href="https://www.npmjs.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://eslint.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40" style="max-width: 100%;"> </a>
        <a href="https://yarnpkg.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40" style="max-width: 100%;"> </a>     
-     <a href="https://bitbucket.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40" style="max-width: 100%;"> </a>
+     <a href="https://bitbucket.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40" style="max-width: 100%;"> </a>    
+     <a href="https:/axios-http.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" alt="axios" width="40" height="40" style="max-width: 100%;"> </a>  
+     <a href="https:/www.cloudflare.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40" style="max-width: 100%;"> </a>
   </p>
 </details>
 
