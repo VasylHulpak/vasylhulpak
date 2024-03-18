@@ -58,6 +58,7 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
      <a href="https://www.tortoisegit.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tortoisegit/tortoisegit-original.svg" alt="tortoisegit" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://www.tailwindcss.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://www.swiperjs.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swiper/swiper-original.svg" alt="swiper" width="40" height="40" style="max-width: 100%;"> </a>
+     <a href="https://www.swagger.io/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40" style="max-width: 100%;"> </a>
   </p>
 </details>
 
