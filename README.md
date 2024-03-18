@@ -71,6 +71,7 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
      <a href="https://www.jetbrains.com/idea/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://devcenter.heroku.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://gitlab.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" style="max-width: 100%;"> </a>
+     <a href="https://github.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="max-width: 100%;"> </a>
   </p>
 </details>
 
