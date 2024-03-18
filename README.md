@@ -50,6 +50,7 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
      <a href="https:/www.cloudflare.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https:/www.yarnpkg.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="yarn" width="40" height="40" style="max-width: 100%;"> </a>
+     <a href="https://vitest.dev/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="yarn" width="40" height="40" style="max-width: 100%;"> </a>
   </p>
 </details>
 
