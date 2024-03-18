@@ -73,6 +73,7 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
      <a href="https://gitlab.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://github.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://git-scm.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width: 100%;"> </a>
+     <a href="https://figma.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" style="max-width: 100%;"> </a>
   </p>
 </details>
 
