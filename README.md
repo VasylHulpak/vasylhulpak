@@ -64,6 +64,7 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
      <a href="https://www.rabbitmq.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://quasar.dev/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quasar/quasar-original.svg" alt="quasar" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://pnpm.io/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original.svg" alt="pnpm" width="40" height="40" style="max-width: 100%;"> </a>
+     <a href="https://swagger.io/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" alt="openapi" width="40" height="40" style="max-width: 100%;"> </a>
   </p>
 </details>
 
