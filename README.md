@@ -54,6 +54,8 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
      <a href="https://vitejs.dev/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://www.elastic.co/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://www.atlassian.com/software/confluence/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40" style="max-width: 100%;"> </a>
+     <a href="https://www.trello.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="trello" width="40" height="40" style="max-width: 100%;"> </a>
+     <a href="https://www.tortoisegit.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tortoisegit/tortoisegit-original.svg" alt="tortoisegit" width="40" height="40" style="max-width: 100%;"> </a>
   </p>
 </details>
 
