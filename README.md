@@ -61,6 +61,7 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
      <a href="https://www.swagger.io/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://www.rxjs.dev/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" alt="rxjs" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://www.jetbrains.com/rider/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg" alt="rider" width="40" height="40" style="max-width: 100%;"> </a>
+     <a href="https://www.rabbitmq.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40" style="max-width: 100%;"> </a>
   </p>
 </details>
 
