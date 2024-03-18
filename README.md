@@ -68,6 +68,7 @@ I'm Full-Stack Developer working in Lviv, Ukraine.
      <a href="https://mariadb.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://lodash.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lodash/lodash-original.svg" alt="lodash" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://karma-runner.github.io/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-original.svg" alt="karma" width="40" height="40" style="max-width: 100%;"> </a>
+     <a href="https://www.jetbrains.com/idea/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40" style="max-width: 100%;"> </a>
   </p>
 </details>
 
